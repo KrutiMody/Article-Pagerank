@@ -6,9 +6,9 @@ Pagerank is an algorithm that is used by Google to give search results - I imple
 
 
 
-* 1) Data Input
-* 2) Creating an Adjacency Matrix
-* 3) Modifying the Adjacency Matrix
-* 4) Identifying the Dangling Nodes
-* 5) Calculating the Stationary Vector
-* 6) Calculationg the EigenFactor (EF) Score
+* 1)Data Input
+* 2)Creating an Adjacency Matrix
+* 3)Modifying the Adjacency Matrix
+* 4)Identifying the Dangling Nodes
+* 5)Calculating the Stationary Vector
+* 6)Calculationg the EigenFactor (EF) Score
